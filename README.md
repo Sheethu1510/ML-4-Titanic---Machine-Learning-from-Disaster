@@ -31,7 +31,7 @@ The project workflow includes the following steps:
 * **Exploratory Data Analysis (EDA)**: Visualize distributions and identify key patterns
 * **Feature engineering**: Extract and transform relevant features such as family size or title
 * **Modeling**: Train and compare various machine learning algorithms
-* **Evaluation**: Assess model performance using accuracy, precision, recall, and F1-score
+* **Evaluation**: Assess model performance using accuracy score.
 
 ## Outcome
 
